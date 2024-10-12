@@ -1,4 +1,4 @@
-# Banking operations widget
+# Banking operations
 ## Описание проекта:
 Программа создана для фильтрации и сортировки банковских счетов по дате и оплате.
 ### Функции, которые мы будем использовать:
@@ -11,7 +11,7 @@
 
 1. Чтобы скачать репозиторий:
 ```
-git clone https://github.com/Tooxa85/Project1.git
+git clone https://github.com/Tooxa85/Banking-operations.git
 ```
 2. Установить зависимости:
 ```
