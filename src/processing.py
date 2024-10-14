@@ -12,6 +12,8 @@ def filter_by_state(list_dict: list, state: str = "EXECUTED") -> list:
     for i in list_dict:
         if i.get("state") == state:
             filtered_list.append(i)
+        if "state" not in i:
+            return list_dict
     return filtered_list
 
 
